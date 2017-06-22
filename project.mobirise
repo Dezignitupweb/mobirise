@@ -181,7 +181,7 @@
           ],
           "_name": "slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "timeout": "10",
@@ -254,7 +254,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/compass1-2000x1385-800x554.jpg",
                 "image": "@PROJECT_PATH@/assets/images/compass1-2000x1385.jpg",
-                "caption": "Type caption here",
+                "caption": "Compass Sales Solutions",
                 "active": false
               },
               {
@@ -262,19 +262,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/compass2-2000x1149-800x459.jpg",
-                "image": "@PROJECT_PATH@/assets/images/compass2-2000x1149.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/compass3-2000x1411-800x564.jpg",
-                "image": "@PROJECT_PATH@/assets/images/compass3-2000x1411.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ezmps1-2000x1191-800x476.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ezmps1-2000x1191.jpg",
+                "caption": "ezMPS",
                 "active": false
               },
               {
@@ -284,7 +274,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rosa1-2000x984-800x393.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rosa1-2000x984.jpg",
-                "caption": "Type caption here",
+                "caption": "Rosa Plates",
                 "active": false
               },
               {
@@ -292,28 +282,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rosa2-2000x1063-800x425.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rosa2-2000x1063.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rosa3-2000x1143-800x457.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rosa3-2000x1143.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/referral-diagnostics-2000x1011-800x404.jpg",
+                "image": "@PROJECT_PATH@/assets/images/referral-diagnostics-2000x1011.jpg",
+                "caption": "RDX - Referral Diagnostics",
                 "active": true
               }
             ],
-            "spacing": 1,
-            "showText": false,
+            "spacing": "1",
+            "showText": true,
             "filter": false,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-1",
@@ -379,7 +359,7 @@
               "color": "#efefef"
             },
             "SMALL": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         }
